@@ -2,8 +2,8 @@
 
 /// DB연결 문자열 ///
 $servername = "localhost";//DB서버명
-$username = "root";//DB최고관리자권한
-$password = "";//root에는 비번이 없음
+$username = "eddyarchive";//DB최고관리자권한
+$password = "Woong!!9712";//root에는 비번이 없음
 $dbname = "mydb";//사용DB명
 
 /// DB서버와 연결하기 ///
